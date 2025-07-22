@@ -11,7 +11,7 @@ Our platform offers a transparent, tamper-proof way to verify authorship, prove 
 ## 🌐 Live Demo
 
 👉 [Visit the Platform](#)  
-👉 [Try the Interactive Demo](#)
+👉 [https://peppy-kataifi-375bac.netlify.app](#)
 
 ---
 
